@@ -1,2 +1,3 @@
 # Divek-de
-This is my first repository
+This is my first Git repository.
+Auther by Divek Kumar Gupta
